@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MehdiMahmud79/MehdiMahmud79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with improving my skills
 - 📫 How to reach me: E-mail: Mehdi.mahmud@hotmail.com
 
--->
