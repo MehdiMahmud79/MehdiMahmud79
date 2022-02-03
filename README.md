@@ -7,6 +7,7 @@ I am Mehdi, Full-Stack Web Developer leveraging my background in mathematical mo
 - 🤔 I’m looking for help with improving my skills
 - 📫 How to reach me: 
       E-mail: Mehdi.mahmud@hotmail.com
+      linkedin: https://www.linkedin.com/in/mehdi-mahmud/
       Mobile: +44(0)7511118806
 
 # Skills
